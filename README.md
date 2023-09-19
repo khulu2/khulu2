@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Donald's GitHub stats](https://github-readme-stats.vercel.app/api?username=khulu2)](https://github.com/khulu2/github-readme-stats)
+
 <!--
 **khulu2/khulu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
